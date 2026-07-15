@@ -11,6 +11,8 @@ Repositório com o foco de armazenar meus estudos recentes como se fosse uma men
 <br>
 
 Essa parte concentra-se em entender o conceito de desenvolvimento orientado por comportamento, onde o foco é descrever um cenário da história do usuário para transformá-lo em funcionalidade.
+
+👉 **[Acessar os estudos de BDD](./bdd_study/)**
 </details>
 
 <details>
@@ -18,6 +20,8 @@ Essa parte concentra-se em entender o conceito de desenvolvimento orientado por 
 <br>
 
 *(Conteúdo em desenvolvimento)*
+
+👉 **[Acessar os estudos de Docker](./docker_study/)**
 </details>
 
 <details>
@@ -25,6 +29,8 @@ Essa parte concentra-se em entender o conceito de desenvolvimento orientado por 
 <br>
 
 *(Conteúdo em desenvolvimento)*
+
+👉 **[Acessar os estudos de Event Sourcing](./event_sourcing_study/)**
 </details>
 
 <details>
@@ -32,4 +38,6 @@ Essa parte concentra-se em entender o conceito de desenvolvimento orientado por 
 <br>
 
 *(Conteúdo em desenvolvimento)*
+
+👉 **[Acessar os estudos de Laravel Design Patterns](./laravel_design_pattern_study/)**
 </details>
