@@ -66,6 +66,6 @@ São serviços financeiros — empréstimos, rendimento, trocas, seguros — que
 
 ****
 ## Material complementar
-[Coinbase: O que é uma stablecoin?](https://www.coinbase.com/pt-br/learn/crypto-basics/what-is-a-stablecoin)
-[Nubank: Stablecoin e suas vantagens no mercado de criptomoedas](https://blog.nubank.com.br/o-que-e-stablecoin-como-funciona/)
-[Stripe: Criação de uma stablecoin: do conceito ao lançamento](https://stripe.com/br/resources/more/creating-a-stablecoin-from-concept-to-launch)
+- [Coinbase: O que é uma stablecoin?](https://www.coinbase.com/pt-br/learn/crypto-basics/what-is-a-stablecoin)
+- [Nubank: Stablecoin e suas vantagens no mercado de criptomoedas](https://blog.nubank.com.br/o-que-e-stablecoin-como-funciona/)
+- [Stripe: Criação de uma stablecoin: do conceito ao lançamento](https://stripe.com/br/resources/more/creating-a-stablecoin-from-concept-to-launch)
