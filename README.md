@@ -34,6 +34,15 @@ Essa parte concentra-se em entender o conceito de desenvolvimento orientado por 
 </details>
 
 <details>
+<summary><b>Stablecoin</b></summary>
+<br>
+
+Essa parte concentra-se em entender o conceito de stablecoin, uma criptomoeda atrelada a ativos estáveis, como dólar ou real, com o objetivo de reduzir a volatilidade e estudar melhor o funcionamento das moedas digitais no mercado financeiro.
+
+👉 **[Acessar os estudos de Stablecoin](./stable_coin_study/)**
+</details>
+
+<details>
 <summary><b>Laravel Design Pattern</b></summary>
 <br>
 
