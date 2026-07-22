@@ -30,7 +30,7 @@ Para saber o saldo atual, a aplicação **reproduz (replays)** os eventos desde 
 
 ---
 
-## 💻 Exemplo Prático de Código (Conceitual)
+## Exemplo Prático de Código (Conceitual)
 
 Imagine como seriam os eventos em uma aplicação PHP/Laravel:
 

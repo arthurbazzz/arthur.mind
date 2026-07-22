@@ -56,7 +56,7 @@ Durante esse curto período de tempo, se o usuário consultar o saldo, ele ainda
 
 ---
 
-## 💻 Exemplo Conceitual (Em PHP/Laravel)
+## Exemplo Conceitual (Em PHP/Laravel)
 
 ```php
 // ==========================================
