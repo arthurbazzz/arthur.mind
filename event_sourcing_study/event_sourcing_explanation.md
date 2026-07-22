@@ -72,3 +72,7 @@ echo $conta->saldo; // Resultado: 300
 * **Escalabilidade (com CQRS):** Separação total de quem escreve os dados (eventos) e de quem lê os dados (projeções).
 * **Análise de Dados Futura:** Você pode criar novas projeções hoje e rodar sobre os eventos do passado para descobrir novas informações que você nem sabia que precisava antes.
 
+## Material complementar
+- [Artefato do Claude](https://claude.ai/public/artifacts/03a03bca-34c0-41c8-995a-6368a915a56d)
+
+- [WHAT IS EVENT SOURCING?](https://eda-visuals.boyney.io/visuals/what-is-eventsourcing)
